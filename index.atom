@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>My new site</title>
+    <subtitle>Is awesome</subtitle>
+    <link href="http://exemple.com/index.atom" rel="self" />
+    <link href="http://exemple.com/" />
+        <id>http://exemple.com/</id>
+            <updated>2013-01-05T00:00:00-06:00</updated>
+            <entry>
+        <title>How to create a new blog post ?</title>
+                <id>http://exemple.com/2013/01/05/welcome.html</id>
+                <updated>2013-01-05T00:00:00-06:00</updated>
+        <author>
+            <name>You name here</name>
+            <email>Your email here</email>
+        </author>
+        <link rel="alternate" type="text/html" href="http://exemple.com/2013/01/05/welcome.html"/>
+        <content type="html" xml:lang="en"><![CDATA[<h2 id="how-to-build-post">How to build post<a href="#how-to-build-post" class="anchor">#</a></h2>
+
+<p>Just run:</p>
+
+<pre><code>$ vendor/bin/carew carew:generate:post "Your title"
+</code></pre>
+
+<p>For more information visit <a href="http://carew.github.com">the documentation</a></p>]]></content>
+    </entry>
+    </feed>
