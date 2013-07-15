@@ -1,10 +1,10 @@
 site:
-    title:        My new site
-    description:  Is awesome
-    author_name:  You name here
-    author_email: Your email here
-    author_url:   Your url here
-    url_absolute: http://exemple.com
+    title:        frastel@blog
+    description:  Just another dev blog
+    author_name:  Frank Stelzer
+    author_email: dev@frankstelzer.de
+    author_url:   https://twitter.com/frastel
+    url_absolute: http://frastel.github.io
 
 engine:
     themes:

@@ -1,14 +1,10 @@
 ---
-title: How to build my website ?
-subtitle: is awesome
+title: Why ?
+subtitle: o why?
 tags: demo
 ---
 
-Hello
+Why is thing needed?
 -----
 
-Just run:
-
-    $ vendor/bin/carew carew:build
-
-For more information visit [the documentation](http://carew.github.com)
+I don't know yet, just experimenting with [carew](http://carew.github.com).
